@@ -1,0 +1,20 @@
+C:\Users\Vu\AppData\Local\Temporary Projects\SQLforSchools\bin\Debug\SQLforSchools.exe
+C:\Users\Vu\AppData\Local\Temporary Projects\SQLforSchools\bin\Debug\SQLforSchools.pdb
+C:\Users\Vu\AppData\Local\Temporary Projects\SQLforSchools\obj\x86\Debug\SQLforSchools.MainWindow.resources
+C:\Users\Vu\AppData\Local\Temporary Projects\SQLforSchools\obj\x86\Debug\SQLforSchools.Properties.Resources.resources
+C:\Users\Vu\AppData\Local\Temporary Projects\SQLforSchools\obj\x86\Debug\SQLforSchools.csproj.GenerateResource.Cache
+C:\Users\Vu\AppData\Local\Temporary Projects\SQLforSchools\obj\x86\Debug\SQLforSchools.exe
+C:\Users\Vu\AppData\Local\Temporary Projects\SQLforSchools\obj\x86\Debug\SQLforSchools.pdb
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQLforSchools.MainWindow.resources
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQLforSchools.Properties.Resources.resources
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQLforSchools.csproj.GenerateResource.Cache
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\bin\Debug\SQL for Schools.exe
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\bin\Debug\SQL for Schools.pdb
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQL for Schools.exe
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQL for Schools.pdb
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\bin\Debug\SQL for Schools.exe.manifest
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\bin\Debug\SQL for Schools.application
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQL for Schools.TrustInfo.xml
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQL for Schools.exe.manifest
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQL for Schools.application
+C:\Users\Vu\documents\visual studio 2010\Projects\SQLforSchools\SQLforSchools\obj\x86\Debug\SQLforSchools.csprojResolveAssemblyReference.cache
